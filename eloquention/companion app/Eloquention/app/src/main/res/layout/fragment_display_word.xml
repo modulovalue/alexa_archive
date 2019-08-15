@@ -1,0 +1,74 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:background="@color/colorPrimaryBrighterThanBackground"
+             tools:context="modestasvalauskas.com.eloquention.screens.DisplayWord.DisplayWordFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="20dp">
+
+            <TextView
+                android:id="@+id/wordname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-condensed"
+                android:paddingBottom="10dp"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="20dp"
+                android:text="ad hoc"
+                android:textColor="@android:color/white"
+                android:textSize="42sp"
+                android:textStyle="bold|italic"/>
+
+            <TextView
+                android:id="@+id/worddefinition"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-condensed"
+                android:paddingBottom="20dp"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"
+                android:text=" we"
+                android:textColor="@android:color/white"
+                android:textSize="24sp"
+                android:textStyle="italic"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/displaywordcontainer"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/wordexample"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-condensed"
+                    android:paddingBottom="20dp"
+                    android:paddingLeft="45dp"
+                    android:paddingRight="20dp"
+                    android:paddingTop="20dp"
+                    android:text="ohne Vorbereitung, speziell für einen Zweck oder spontan aus einer Situation heraus entstanden"
+                    android:textAlignment="textEnd"
+                    android:textAllCaps="false"
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp"
+                    android:textStyle="bold|italic"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

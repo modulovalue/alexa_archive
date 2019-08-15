@@ -2,49 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36e34151-485a-441f-9c49-3f888315f164" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/alexa_archive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Neujahrsvorsätze Motivation/ASSETS/Logo/neujahrsvorsätze motivator logo.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Neujahrsvorsätze Motivation/ASSETS/Logo/neujahrsvorsätze108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Neujahrsvorsätze Motivation/ASSETS/Logo/neujahrsvorsätze512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Neujahrsvorsätze Motivation/neujahrsvorsätze motivation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weihnachtsgeschichten/ASSETS/Logo/book_PNG2115.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weihnachtsgeschichten/ASSETS/Logo/eloquentionlogo.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weihnachtsgeschichten/ASSETS/Logo/eloquentionlogoX108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weihnachtsgeschichten/ASSETS/Logo/eloquentionlogoX512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weihnachtsgeschichten/ASSETS/Logo/santa-hat-.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weihnachtsgeschichten/ASSETS/Magic-zing-sound-effect/christmas1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weihnachtsgeschichten/ASSETS/Magic-zing-sound-effect/christmas1ready.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weihnachtsgeschichten/ASSETS/Magic-zing-sound-effect/christmas2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weihnachtsgeschichten/ASSETS/Magic-zing-sound-effect/christmas2ready.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weihnachtsgeschichten/alexaweihnachtsgedichte.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eloquention/alexaeloquention.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flachwitze trainer/ASSETS/Logo/logox108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flachwitze trainer/ASSETS/Logo/logox512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flachwitze trainer/alexafussballsprueche.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fußballsprüche/ASSETS/Logo/eloquentionlogo.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fußballsprüche/ASSETS/Logo/logox108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fußballsprüche/ASSETS/Logo/logox512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fußballsprüche/alexafussballsprueche.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ornament.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socks.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/täglich positives/ASSETS 2/Logo/Bildschirmfoto 2018-04-09 um 02.36.06.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/täglich positives/ASSETS 2/Logo/neujahrsvorsätze motivator logo.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/täglich positives/ASSETS 2/Logo/neujahrsvorsätze108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/täglich positives/ASSETS 2/Logo/neujahrsvorsätze512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/täglich positives/json.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zufälligekünstler/1-512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zufälligekünstler/artistssforalexa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zufälligekünstler/eloquentionlogo.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zufälligekünstler/logo108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zufälligekünstler/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zufälligekünstler/zufälligekünstler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +17,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="119">
-                <caret line="7" column="72" lean-forward="true" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
+                <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -79,8 +37,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
-    <option name="y" value="50" />
+    <option name="x" value="130" />
+    <option name="y" value="108" />
     <option name="width" value="1608" />
     <option name="height" value="860" />
   </component>
@@ -185,8 +143,7 @@
     </configuration>
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="50" width="1608" height="860" extended-state="0" />
-    <editor active="true" />
+    <frame x="-405" y="190" width="1608" height="860" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10536399" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -232,7 +189,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="119">
-            <caret line="7" column="72" lean-forward="true" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           </first_editor>
           <second_editor />
         </state>

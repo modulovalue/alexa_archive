@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/valauskasmodestas/.gradle/caches/modules-2/files-2.1/com.anjlab.android.iab.v3/library/1.0.44/add169444f38ac23ffae27326c75e33fedef73ba/library-1.0.44.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.0"
+        sha1="add169444f38ac23ffae27326c75e33fedef73ba">
+        <dex dex="/Users/valauskasmodestas/Desktop/Programmieren/Android/Eloquention/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+
+</items>

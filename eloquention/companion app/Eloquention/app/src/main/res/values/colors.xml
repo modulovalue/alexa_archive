@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00cc99</color>
+    <color name="colorPrimaryBrighterThanBackground">#00ba8c</color>
+    <color name="colorPrimaryBackground">#00a97e</color>
+    <color name="colorPrimaryDark">#168c62</color>
+    <color name="colorAccent">#1c774e</color>
+    <color name="colorPrimaryItemCell">#00ba8c</color>
+    <color name="pureWhite">#fff</color>
+    <color name="whiteBlass">#44ffffff</color>
+</resources>
